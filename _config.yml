@@ -3,8 +3,8 @@ title: Towson Terminators
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   The Towson Terminators Robotics Team website.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/terminator-website/" # the subpath of your site, e.g. /blog/
+url: "http://cwenck.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
