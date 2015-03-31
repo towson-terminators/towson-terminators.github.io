@@ -1,6 +1,6 @@
 # Site settings
 title: Towson Terminators
-email: your-email@domain.com
+email:
 description: > # this means to ignore newlines until "baseurl:"
   The Towson Terminators Robotics Team website.
 baseurl: "" # the subpath of your site, e.g. /blog/
