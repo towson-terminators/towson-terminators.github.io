@@ -1,25 +1,29 @@
 $( document ).ready(function() {
 	//console.log() works for printing stuff
-	//"http://api.vex.us.nallen.me/get_teams?organisation=Towson%20High%20School&is_registered=1"
+	
 	getTeams()
 });
 
+//Useful urls
+
+//get all events for the current season in the maryland region
+//http://api.vex.us.nallen.me/get_events?region=Maryland&season=current
+
+
+//get all towson high school teams registered for the current season
+//http://api.vex.us.nallen.me/get_teams?organisation=Towson%20High%20School&is_registered=1
+
+//get all towson high school teams ever registered
+//http://api.vex.us.nallen.me/get_teams?organisation=Towson%20High%20School
+
+//get all awards for team
+//http://api.vex.us.nallen.me/get_awards?team=<team number>
+
+//get all matches played by a team this current season
+//http://api.vex.us.nallen.me/get_matches?season=current&team=<team number>
+
 function getTeams(){
-	// $.ajax({
-	//     url: "http://api.vex.us.nallen.me/get_teams?organisation=Towson%20High%20School&is_registered=1",
-	 
-	//     // The name of the callback parameter, as specified by the YQL service
-	//     jsonp: "callback",
-	 
-	//     // Tell jQuery we're expecting JSONP
-	//     dataType: "jsonp",
-	 
-	//     // Tell YQL what we want and that we want JSON
-	//     data: {
-	//     //     q: "select title,abstract,url from search.news where query=\"cat\"",
-	//         format: "json"
-	//     },
-	 
+ 
 	   
 
 	    $.ajax({
