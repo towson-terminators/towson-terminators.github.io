@@ -6,8 +6,7 @@ permalink: /game/
 
 NOTE: Field specs are not out yet.
 
-Important Rules:
-
+###Important Rules:
 - &lt;SG2&gt; Prior to the start of each Match, each Robot may use their four (4) Balls available as Preloads. A Ball is considered to be legally preloaded if it is touching the Robot, not touching any other grey foam tiles, and is fully within the field perimeter. Any unused Preloads become Driver Control Loads.
 - &lt;SG8&gt; Robots may not Possess more than four (4) Scoring Objects at once. Minor violations of this rule that do not affect the match will result in a warning
 - &lt;SG3&gt; A Robot may not expand beyond a volume of 18 inches wide by 18 inches long by 18 inches tall at any point during the Match, with the exception of the allowance listed in &lt;SG10&gt;.
@@ -15,12 +14,15 @@ Important Rules:
 - &lt;SG9&gt; Robots may not enter (i.e. break the plane) of any Goal.
 - &lt;SG12&gt; Robots may not remove any Scoring Objects from any Goal during the Match.
 
-Important Links:
+<br>
 
+###Important Links:
 - [Rules](http://content.vexrobotics.com/docs/vrc-nothing-but-net/VRC-Nothing-But-Net-Game-Manual-v20140409.pdf)
 - [Game Page](http://www.vexrobotics.com/vex/competition/competition-resources)
 - [Revel Video](https://www.youtube.com/watch?v=A8daR6qBw3M)
 - [Game Products](http://www.vexrobotics.com/vex/products/competition-products/vrc-products/)
 
-Field Overview:
+<br>
+
+###Field Overview:
 <img src="{{ "/images/field_overview.png" | prepend: site.baseurl | prepend: site.url }}">
