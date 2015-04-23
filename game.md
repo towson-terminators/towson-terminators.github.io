@@ -18,6 +18,7 @@ NOTE: Field specs are not out yet.
 
 ###Important Links:
 - [Rules](http://content.vexrobotics.com/docs/vrc-nothing-but-net/VRC-Nothing-But-Net-Game-Manual-v20140409.pdf)
+- [Field Specifications](http://content.vexrobotics.com/docs/vrc-nothing-but-net/VRC-Nothing-But-Net-Field-Specifications-20150408.pdf)
 - [Game Page](http://www.vexrobotics.com/vex/competition/competition-resources)
 - [Revel Video](https://www.youtube.com/watch?v=A8daR6qBw3M)
 - [Game Products](http://www.vexrobotics.com/vex/products/competition-products/vrc-products/)
