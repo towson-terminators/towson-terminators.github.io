@@ -4,8 +4,6 @@ title: Game
 permalink: /game/
 ---
 
-NOTE: Field specs are not out yet.
-
 ###Important Rules:
 - &lt;SG2&gt; Prior to the start of each Match, each Robot may use their four (4) Balls available as Preloads. A Ball is considered to be legally preloaded if it is touching the Robot, not touching any other grey foam tiles, and is fully within the field perimeter. Any unused Preloads become Driver Control Loads.
 - &lt;SG8&gt; Robots may not Possess more than four (4) Scoring Objects at once. Minor violations of this rule that do not affect the match will result in a warning
